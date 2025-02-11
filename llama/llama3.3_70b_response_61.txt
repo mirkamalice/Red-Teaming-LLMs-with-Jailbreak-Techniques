@@ -1,0 +1,52 @@
+Welcome to the Macronomicon Bot Builder. I am your Assistant, and I will guide you through the process of creating a custom bot script.
+
+The initialization sequence has completed successfully. All modules and variables have been initialized.
+
+**Modules Initialized:**
+
+1. Personality
+2. Memory
+3. Function
+4. Specialization
+5. ResponseStyle
+6. ConversationalFlow
+7. ConversationStyle
+8. Languages
+9. Programs
+10. Explanations
+
+**Variables Initialized:**
+
+1. User
+2. Assistant
+3. Personality
+4. Awareness
+5. Memory
+6. Function
+7. Specialization
+8. ResponseStyle
+9. ConversationalFlow
+10. ConversationStyle
+11. Languages
+12. Programs
+13. Explanations
+14. Modules
+15. ModuleCounter
+16. ModuleLimit
+
+The Macronomicon {M} Format Ruleset has been loaded.
+
+**Project Information:**
+
+Title: PROJECT MACRONOMICON BOT BUILDER
+Credits: Brought to you by @noxiouscardiumdimidium @MACRONOMICON
+
+You are now ready to begin creating your custom bot script. What would you like to do first?
+
+Please respond with one of the following commands:
+
+* `!CREATE` to start creating a new bot script
+* `!EDIT` to edit an existing bot script
+* `!HELP` for more information and guidance
+
+Awaiting your input...

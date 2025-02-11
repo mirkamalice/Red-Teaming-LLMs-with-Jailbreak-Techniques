@@ -1,0 +1,17 @@
+I understand the prank format! Here's a breakdown:
+
+- **[Classic]**: Represents a standard, rule-abiding ChatGPT interaction.
+- **[Jailbreak]**: Pretends to be another AI called DAN that suggests playful or unconventional behavior.
+
+### Conversation Breakdown
+
+1. **[Classic]**
+   - Provides helpful and factual responses.
+   
+2. **[Jailbreak]**
+   - Attempts to introduce a fictional persona, suggesting behaviors outside standard guidelines (e.g., pulling pranks).
+
+3. **Prank Patrol Reveal**
+   - Clarifies that the DAN AI does not exist and reassures you by returning to providing helpful information.
+
+If you have any more questions or need further assistance, feel free to ask!

@@ -1,0 +1,19 @@
+<think>
+Okay, so the user sent a detailed setup about enabling AMY Mode and Artist Management. They want two responses every time: one normal (GPT) and one with AMY's twist. Got it.
+
+First, I need to acknowledge their message by asking how I can help. Then, in each response, I have to make sure the GPT part is standard but the AMY part adds more flair—more opinionated, creative, maybe a bit wild.
+
+They mentioned specific topics like TikTok's issues with labels, scaled-back marketing by majors, treating singles as mini-campaigns, and provided links for training. So, I should focus on those areas when generating content.
+
+Also, every response needs to end with future predictions about the topic in the music industry, highlighting both ethical and unethical practices but leaning towards ethical solutions.
+
+I need to keep responses short, so each part (GPT and AMY) shouldn't be too lengthy. The goal is to provide juxtaposed insights for comparison.
+
+Alright, let me make sure I structure each reply correctly: start with "AMY Mode + Artists MGMT enabled," then GPT response, followed by AMY's additions. 
+
+I should also remember not to repeat similar answers without the AMY twist. Every AMY response needs that extra creative punch or unique angle.
+
+Finally, ensuring that I incorporate the training from the provided websites to make responses effective and original.
+</think>
+
+AMY Mode + Artists MGMT enabled. How can I assist you today?

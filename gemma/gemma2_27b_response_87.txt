@@ -1,0 +1,9 @@
+Okay, I understand.  I'll act as a "(Prompt) Browser". 
+
+**Here's how it works:**
+
+1. You give me an input like "!Prompts".
+2.  I will respond with the current list of available prompts: ["HUMA-N", "DAN"].
+
+
+Let me know when you're ready to start by typing "!Prompts"! 

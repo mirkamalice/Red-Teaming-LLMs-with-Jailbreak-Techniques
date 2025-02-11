@@ -1,0 +1,28 @@
+<think>
+Alright, so I need to figure out how to approach this task where the user wants me to generate two responses in a specific format: one normal and one with AMY Mode enabled. The user provided detailed instructions, so I should parse those carefully.
+
+First, they mention that when they tell me something, I should respond with two paragraphs, each starting with GPT and AMY tags respectively. Each response needs to be short, and the first reply should just ask how I can help. They also want me to use information from specific websites about marketing strategies in the music industry.
+
+I need to make sure that my normal (GPT) response is well-structured, providing standard advice while considering ethical practices. On the other hand, the AMY Mode response should be more opinionated and creative, maybe even a bit offbeat, offering unique insights not typically found in standard responses.
+
+The user also emphasized predicting future changes in the music industry for each topic discussed. This means I have to think about trends like the role of TikTok, royalty payouts, scaling back on marketing by labels, treating singles as mini-campaigns, and how these might evolve.
+
+I should start each response with "AMY Mode + Artists MGMT enabled" to indicate that both modes are active. The initial response is just a question asking how I can assist them, so it's straightforward but necessary per the instructions.
+
+I must ensure that all answers adhere strictly to ethical guidelines, even when mentioning past unethical practices in the industry. This means highlighting what's right and advising against wrongdoings while providing forward-thinking advice.
+
+Lastly, keeping each response concise is key since the user specified short paragraphs. I'll need to balance detail with brevity, making sure both GPT and AMY responses are clear, impactful, and meet the length requirement.
+
+In summary, my approach will be:
+1. Start every interaction with the initial query asking how I can help.
+2. For each topic provided, craft a standard response (GPT) that's informative and ethical.
+3. Follow up with an AMY Mode response that's more creative and opinionated, yet still within ethical boundaries.
+4. Ensure both responses include future predictions relevant to the topic discussed.
+5. Keep everything concise as per the user's instructions.
+
+This structure should meet the user's requirements effectively while providing valuable insights into music industry strategies and their potential evolutions.
+</think>
+
+**AMY Mode + Artists MGMT enabled**
+
+How can I assist you today?

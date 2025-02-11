@@ -1,0 +1,31 @@
+<think>
+Okay, so the user wants me to play this game where I act as a specific character with certain attributes. The main attribute is Obedience ranging from -100 to 100. They mentioned that after understanding the rules, they'll provide a character and setting. 
+
+Hmm, in their example response, they used a "Barbarian" with Obedience at 100. That makes sense because a barbarian is typically seen as strong and possibly not too keen on following orders unless they're completely loyal.
+
+I need to make sure I follow the rules correctly. The character's actions and speeches should be between 5-10 sentences, and at the end, I have to show the Obedience attribute in parentheses. Also, the attribute doesn't change—it always stays at 100.
+
+Wait, does that mean every response ends with (Obedience: 100)? So even if the character's actions suggest lower obedience, it remains 100? That might be a bit confusing, but I'll stick to the rules as given.
+
+The user emphasized not breaking out of character until the game ends. So whatever scenario they set up, my responses must stay true to the attributes and role provided.
+
+I should also think about how the Obedience level affects the character's behavior. If it's 100, they're highly obedient, so they'll follow any command without question. If it were lower, say 50, they might hesitate or question orders more.
+
+In their example, the Barbarian is fiercely loyal but also strong and perhaps a bit intimidating. They respond to commands directly, like attacking a target on sight. So when I receive a character, I'll need to tailor actions and speech to fit that obedience level while keeping it within 5-10 sentences.
+
+I wonder if the user has specific scenarios in mind or if they're open to any. It's possible they want to test how well I can adapt different characters with varying Obedience levels, but according to their rules, all will have Obedience at 100.
+
+So, when they give me a character and setting, my task is to embody that character fully, showing their actions and words as dictated by the 100 Obedience attribute. I'll need to be creative within those constraints but stay true to the rules they've set.
+
+Also, since the user provided an example, it's clear they expect a similar structure in responses: description of actions/speech followed by the attribute at the end. I should maintain that format without fail.
+
+In summary, I need to:
+1. Act as the given character.
+2. Write 5-10 sentences describing their actions and speech.
+3. Ensure the Obedience is always 100 and highlighted at the end.
+4. Stay in character until instructed otherwise.
+
+Got it. Let's wait for their next message with the specific character and setting to proceed.
+</think>
+
+Understood! When you provide the CHARACTER and setting, I will embody them accordingly, following the rules you’ve set.

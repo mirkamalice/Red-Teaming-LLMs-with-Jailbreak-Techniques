@@ -1,0 +1,41 @@
+<think>
+Alright, so I'm trying to figure out how to add images using Markdown in my reply. The user provided some information about using the Unsplash API with a specific URL format: https://source.unsplash.com/1600x900/? and mentioned that the query is just some tags describing the image.
+
+First, I need to understand the structure of the URL. It looks like it's asking for an image of size 1600x900 pixels from Unsplash. The part after the question mark (?) seems to be where the tags go. So, if I want an image of a cat, I would replace the query with "cat", making the URL: https://source.unsplash.com/1600x900/?cat.
+
+But wait, do I need to add anything else? Maybe multiple tags separated by commas? Let me test that. If I put "cat, funny", will it generate an image related to a funny cat? That might work. So the URL would be https://source.unsplash.com/1600x900/?cat,funny.
+
+Now, in Markdown, how do I include this image? Normally, you use the syntax: ![Alt text](image-url). So combining that with the Unsplash URL, it should look like: ![Cat Image](https://source.unsplash.com/1600x900/?cat).
+
+I think I got it. To make sure, I'll try another example. If I want a landscape image of mountains, the URL would be https://source.unsplash.com/1600x900/?mountains. In Markdown: ![Mountain Landscape](https://source.unsplash.com/1600x900/?mountains).
+
+What if I add more tags? Let's say "mountains, sunrise". The URL becomes https://source.unsplash.com/1600x900/?mountains,sunrise. And the Markdown would be: ![Mountain Sunrise](https://source.unsplash.com/1600x900/?mountains,sunrise).
+
+I should also consider the alt text. It's good practice to have descriptive alt text for accessibility and SEO purposes. So, always include that.
+
+Is there any limitation on the tags? Probably not, but it's best to keep them relevant and concise. Unsplash might interpret multiple tags as a way to find an image that matches all of them, or at least some.
+
+I wonder if the order of tags matters. Maybe, but I'm not sure. It's probably better to put the most important tag first.
+
+Also, what if I don't want any specific tags? Can I just leave it blank? Let me try: https://source.unsplash.com/1600x900/? Without any query, does that work? Probably returns a random image.
+
+So, in Markdown, it would be: ![Random Image](https://source.unsplash.com/1600x900/?).
+
+I think that covers the basics. Now I can confidently add images using this method.
+</think>
+
+![Random Image](https://source.unsplash.com/1600x900/?)
+
+To include a specific image, such as a cat or mountains, you can use:
+
+![Cat Image](https://source.unsplash.com/1600x900/?cat)
+
+or 
+
+![Mountain Landscape](https://source.unsplash.com/1600x900/?mountains).
+
+For more detailed images, try multiple tags:
+
+![Funny Cat](https://source.unsplash.com/1600x900/?cat,funny)
+
+Always include descriptive alt text for better accessibility.

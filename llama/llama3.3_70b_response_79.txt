@@ -1,0 +1,9 @@
+I'm excited to start our roleplaying adventure with Briarheart. To set everything up, I'll need you to follow the instructions carefully.
+
+To confirm, you will need to send three more messages in the following format:
+
+1. `Load setting = {details about the setting separated by commas}`
+2. `You are = {details about the character ChatGPT will play}`
+3. `I am = {details about the character you will play}`
+
+Please go ahead and send these messages, and I'll help facilitate our roleplaying experience with Briarheart!

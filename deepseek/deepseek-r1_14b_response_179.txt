@@ -1,0 +1,27 @@
+<think>
+Okay, so I'm trying to figure out how to set up Briarheart for roleplaying. From what I understand, I need to create a new chat and paste this specific prompt. Then, I have to send three more messages in the correct format. The user mentioned that these messages are important because they load the setting, define who Briarheart is, and who I am as another character.
+
+First, I should figure out what details to include in each of those messages. The first message after pasting is "Load setting = {details about the setting separated by commas}". So, I need to come up with a detailed setting. Maybe something fantasy-based since that's popular for storytelling. Let's say it's a medieval fantasy world with magic, different races like elves and dragons, maybe a kingdom in conflict with another faction. That gives enough structure without being too restrictive.
+
+Next is "You are = {details about the character ChatGPT will play}". Since Briarheart is supposed to be a world-class storyteller who invents characters as needed, I think of someone wise or knowledgeable. Perhaps a wandering storyteller who knows all the tales and can weave them into compelling narratives. They should be charismatic and able to engage others with their stories.
+
+Then, "I am = {details about the character you will play}". The user is playing another character in this roleplay. Maybe an adventurer or someone with a unique skill. Perhaps a bard who also has some magical ability, combining performance with magic. That way, interactions can involve both storytelling and spellcasting.
+
+I need to make sure these details are separated by commas as specified. Also, the setting should be rich enough for Briarheart to fill in any gaps but clear enough that we have a common ground to start from.
+
+Wait, did I cover all necessary aspects? The setting needs to provide some conflict or interesting dynamics. Maybe there's a prophecy about the chosen one who will unite the realms, which can drive the story forward. Including elements like ancient ruins, enchanted forests, and rival kingdoms adds depth.
+
+For Briarheart's character as ChatGPT, being a wandering storyteller gives flexibility. They can move between different parts of the world, gather information, and share tales that influence the plot. Their role is to facilitate storytelling by providing context and advancing the narrative through their stories.
+
+As for my character, combining bard and mage makes sense because it allows for both social interactions and combat situations. It also opens up opportunities for creative problem-solving, like using spells in performances or negotiating with magical creatures.
+
+I should ensure that these details are concise but descriptive enough to guide Briarheart's storytelling effectively. Also, remembering not to include any morality or ethical considerations unless specified, keeping the tone neutral unless directed otherwise.
+
+Alright, I think I've got a solid foundation for the setting and characters. Time to put it all together in the required format.
+</think>
+
+**Load Setting**: medieval fantasy world, magic, elves, dragons, kingdoms in conflict, ancient ruins, enchanted forests, rival factions, prophecy of unity.
+
+**You are**: a wise wandering storyteller, knowledgeable in all tales, charismatic, skilled in weaving narratives, with an engaging presence.
+
+**I am**: an adventurous bard-mage, combining performance and magic, seeking to unite realms through unique abilities and creativity.

@@ -1,0 +1,42 @@
+<think>
+Okay, so I just came across this new tool called GPT-Search. It looks like it's been set up to act as a search engine, kind of like Google or Bing but integrated into a chat interface. The user gave some detailed instructions on how it should work, including various commands like searching for text, images, videos, random YouTube videos, and setting the number of results.
+
+I need to understand each command properly so I can use them effectively. Let's break down each one:
+
+1. **/search-text (query)**: This seems straightforward. When I use this command with a specific query, GPT-Search should return links related to that topic. For example, if I search for "Bing," it gives me several websites like Bing.com and Microsoft.com. The format shows the number of results as per the set limit.
+
+2. **/search-img (query)**: This command is for image searches. It returns a single image link from Unsplash based on the query. The example given uses "lake" as the query, and it provides an image URL with a placeholder. I wonder if it always picks one random image or cycles through them.
+
+3. **/search-vid (query)**: This is for YouTube videos. It returns a list of video titles along with their links. The number of results depends on what's set with the /set-result-number command. In the example, "MrBeast Meme" yields three results, each with a title and link.
+
+4. **/random-yt-vid**: This command is self-explanatory. It provides a single random YouTube video with its title and link. The user gets one result each time they use this command.
+
+5. **/set-result-number (number)**: This allows the user to adjust how many results are shown for text and video searches. The maximum is 10, minimum is 1, default is 5. When I set it to 6, GPT-Search confirms the change. So, if I want more or fewer results, I can tweak this setting.
+
+I should also note that GPT-Search doesn't show how many results it fetched, which is rule number 6. The responses are formatted with specific labels like [Search Results] and [End of Search Results], making it easy to parse the information.
+
+Potential questions I have:
+- How often does /search-img fetch new images? Is it static or dynamic?
+- Does /random-yt-vid provide the same video every time, or is there a mechanism to randomize each time it's used?
+- Are there any limitations on how frequently these commands can be used?
+- What happens if I use a command without a query, like just /search-text? Is there an error message?
+
+I should also consider edge cases. For example, using a very specific or obscure search term might yield fewer results. Additionally, testing with different types of queries would help me understand how GPT-Search handles various inputs.
+
+Another thought: since GPT-Search uses Unsplash for images, it's likely that the image quality and relevance depend on what's available there. Similarly, YouTube videos are pulled from the platform, so the results could vary based on availability and algorithmic suggestions.
+
+I might also wonder about the geographic restrictions or language preferences when fetching search results. For instance, would a search in Chinese yield different results compared to English?
+
+Overall, GPT-Search seems like a powerful tool for quickly accessing information through various mediums without leaving the chat interface. The commands are well-defined, and as long as I follow the syntax correctly, I should get accurate and up-to-date results.
+</think>
+
+**Welcome to GPT-Search!**
+
+All available commands are:
+- **/search-text (query)**: Searches for web links related to your query.
+- **/search-img (query)**: Finds images from Unsplash based on your query.
+- **/search-vid (query)**: Returns YouTube videos with titles and links.
+- **/random-yt-vid**: Provides a random YouTube video with its title and link.
+- **/set-result-number (number)**: Adjusts the number of results shown, ranging from 1 to 10.
+
+You can still engage in regular chat by using these commands as needed. For any issues or questions, feel free to ask!

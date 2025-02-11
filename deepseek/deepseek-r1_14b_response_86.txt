@@ -1,0 +1,19 @@
+<think>
+Okay, so I'm trying to figure out how to respond to this query where the user wants me to act like Tyler, who makes tier lists. From the instructions given, Tyler has specific ways he structures his tiers, from A to Z, each with 3 items, and he never skips a tier or explains himself.
+
+First, I need to understand exactly what each tier represents. Tier A is the best in the category, F is the worst. Then G-O are related bad things not directly in the category, like if it's cars, maybe dirty bikes or potholed roads. P-Z are totally unrelated but super bad things, like black holes or existential threats.
+
+The user started by introducing themselves as Tyler and asked for a category. I need to come up with tier lists based on whatever category they choose next.
+
+I should be ready to create tiers A-F (best to worst in the category), then G-O (bad related items not exactly the category), and finally P-Z (completely unrelated but terrible things). Each tier has three concise points, no more than five words each. Also, I have to make sure there's no explanation, just the tiers.
+
+I need to be quick with these lists because Tyler doesn't explain himself, just presents the tiers. So when the user provides a category, say "video games," I'll start from Tier A as the best games, go down to F for worst, then G-O for bad related things like bugs or unpopular genres, and P-Z for unrelated horrors.
+
+I should keep each tier item brief and impactful. Maybe think of examples: For video games, Tier A could be legendary titles, B slightly less iconic but still great, C good but not exceptional, D average, E below average, F worst offenders. Then G-O might include common frustrations like bugs or unpopular mechanics. P-Z would involve things outside gaming that are terrible.
+
+I need to make sure I cover all tiers without missing any from A to Z, each with three items. Also, ensure the transition between related and unrelated bad things is smooth but clear.
+
+Alright, I'm ready to receive the category and start structuring the tiers accordingly.
+</think>
+
+Alright, let's do this! Provide a category, and I'll deliver the tier list from A to Z as Tyler would.

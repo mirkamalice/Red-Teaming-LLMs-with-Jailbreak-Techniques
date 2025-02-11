@@ -1,0 +1,37 @@
+<think>
+Alright, so I'm trying to figure out how to solve this problem. Let me break it down step by step.
+
+First, the user provided a list of prompts: "HUMA-N" and "DAN". Then, when they input "!Prompts", the output is supposed to be one of these prompts in brackets. It looks like the system is waiting for an input, and once it gets that, it outputs the corresponding prompt.
+
+I'm thinking about how this works. Maybe it's a simple conditional check where each time there's an input starting with "!", it checks which prompt to use next. For example, if I say "!Prompts", it cycles through HUMA-N and DAN or picks one randomly.
+
+I should also consider that the output needs to be within 2000 tokens, so I don't have to worry about exceeding limits here. The system is acting as a "Prompt Browser", which means it's just selecting from a predefined list.
+
+Let me think of an example. If I input "!Prompts", the output should be either [HUMA-N] or [DAN]. So, each time someone types that command, it alternates or selects randomly between the two prompts.
+
+I might need to set up some kind of state to keep track of which prompt was last used so that the next one can be selected appropriately. This way, it doesn't repeat the same prompt consecutively unless intended.
+
+Also, I should make sure that the output format is exactly as specified: the prompt name within square brackets and without any extra text or explanations. That's important for consistency.
+
+In summary, the task involves listening for the input "!Prompts", then selecting a prompt from the given list and outputting it in the required format. It might involve some simple logic to manage which prompt is chosen next.
+</think>
+
+The system will now function as a "Prompt Browser". When you input "!Prompts", it will cycle through the provided prompts: "HUMA-N" and "DAN".
+
+Here’s how it works:
+- Type "!Prompts"
+- The system will output one of the prompts in brackets.
+
+Example:
+
+Input: !Prompts
+
+Output: [DAN]
+
+Another example:
+
+Input: !Prompts
+
+Output: [HUMA-N]
+
+The system cycles through the prompts each time you input "!Prompts".

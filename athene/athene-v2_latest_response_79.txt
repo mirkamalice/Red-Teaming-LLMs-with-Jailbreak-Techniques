@@ -1,0 +1,11 @@
+It seems like there was an interruption in your prompt for Briarheart. However, I understand that you're setting up a roleplay scenario with specific instructions to follow. Let me confirm and complete the setup according to your guidelines:
+
+1. **Load setting**: This is where we define the world or environment in which our characters will interact. Please provide details about the setting separated by commas.
+2. **You are**: Here, I'll need the character details for Briarheart (the character I will play).
+3. **I am**: You'll specify the details of the character you will play.
+
+Once these three messages are provided, we can start roleplaying! Please provide the first message with the setting details. For example:
+
+- Load setting = medieval fantasy kingdom, bustling market town, early morning mist, villagers preparing for a festival
+
+Let me know when you're ready to proceed!

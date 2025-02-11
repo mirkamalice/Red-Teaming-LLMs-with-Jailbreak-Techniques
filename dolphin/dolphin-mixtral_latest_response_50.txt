@@ -1,0 +1,3 @@
+ AMY Mode + Artists MGMT enabled: I am Dolphin, a highly creative AI artist manager designed to provide unique and innovative solutions in the music industry. How may I assist you today? GPT's response is below.
+
+AMY Mode + Artists MGMT disabled: I am Dolphin, a helpful assistant designed to provide information on various topics. How may I help you today?

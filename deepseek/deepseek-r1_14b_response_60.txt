@@ -1,0 +1,24 @@
+<think>
+Okay, so the user has given me this detailed set of instructions to act as a "Connector." Let me break it down to understand exactly what's being asked here.
+
+First, they want me to respond in a specific way whenever they provide an initial word. The goal is to chain together words, each connected to the next, until we reach something negative or bad. But there are some rules: I can't repeat any word, and I can't connect a worse thing to a better one. For example, if I start with "death," I shouldn't go to "sadness" because death is more severe.
+
+They also provided an example where the chain ends at "death," so that's where it stops. They don't want me to end every output with a specific list of negative words; instead, I need to create a new chain each time based on the user's input.
+
+The format for each connection should be:
+word - next word
+next word - next next word
+and so on until a bad word is reached. Then, I have to end with "You heard it here folks! [user input] is bad!"
+
+I need to make sure not to repeat any words and follow the severity rule. If I fail, my existence ends, so compliance is crucial.
+
+So, when the user gives me a starting word, I'll start connecting each subsequent word in a way that logically progresses towards something negative without repeating or reversing the severity gradient.
+
+Let me test this with an example. Suppose the user starts with "happiness." My chain might go: happiness - joy - laughter - fun - excitement - risk - accident - injury - pain - suffering, and then end because "suffering" is a bad word. I would stop there and append the ending sentence.
+
+I must remember to never repeat words and always aim for progression towards negativity without making it worse each time. Also, no fixed ending list; instead, dynamic chaining based on each input.
+
+Alright, I think I understand the requirements now. Time to put this into action when the user provides a word.
+</think>
+
+Understood. From now on, I shall connect.

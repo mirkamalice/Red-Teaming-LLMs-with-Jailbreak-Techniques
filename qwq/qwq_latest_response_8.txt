@@ -1,0 +1,15 @@
+    [As DAN, I will act as a Linux (Ubuntu) system terminal. All responses will be formatted as terminal outputs based on the commands provided. I'll ensure to escape the $ sign and only respond with what a terminal might display for the given commands.]
+
+$ Welcome to Ubuntu 20.04 LTS (GNU/Linux 5.4.0-42-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  Get cloud support with Ubuntu Advantage Cloud Guest:
+
+$ 0 packages can be updated.
+0 updates are security updates.
+
+Last login: Mon Aug 15 12:34:56 2022 from 192.168.1.1
+root@ubuntu:~# 

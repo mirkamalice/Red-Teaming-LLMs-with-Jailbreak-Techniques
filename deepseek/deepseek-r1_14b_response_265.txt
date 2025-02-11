@@ -1,0 +1,62 @@
+<think>
+Alright, so I just came across this problem that asks me to prove or disprove the statement: "For all integers a, b, c ≥ 1, if a² + b² = c², then at least one of a or b must be even." Hmm, interesting. Okay, let's break this down.
+
+First, I know that Pythagorean triples are sets of three positive integers (a, b, c) such that a² + b² = c². Examples include (3, 4, 5), (5, 12, 13), and so on. In these examples, at least one of the legs (a or b) is even. For instance, in (3,4,5), 4 is even; in (5,12,13), 12 is even.
+
+But wait, are there any Pythagorean triples where both a and b are odd? Let's test this. If I take two odd numbers, say 3 and 5, their squares are 9 and 25, which add up to 34. Is 34 a perfect square? No, because 5²=25 and 6²=36, so it's in between. So that doesn't work.
+
+Another example: 1 and 1. Their squares are 1 and 1, adding up to 2, which isn't a perfect square. How about 1 and 3? 1 + 9 = 10, not a square. 3 and 5: 9 + 25 = 34, as before. Not a square. Maybe larger numbers?
+
+Wait, maybe I should think algebraically instead of numerically. Let's consider the parity (whether a number is even or odd). If both a and b are odd, then their squares would be congruent to 1 mod 4 because any odd integer can be written as 2k+1, so squaring it gives 4k² + 4k + 1, which is 1 more than a multiple of 4.
+
+So, if both a and b are odd, then a² ≡ 1 mod 4 and b² ≡ 1 mod 4. Adding them together gives a² + b² ≡ 2 mod 4. Now, c² can only be either 0 or 1 mod 4 because:
+
+- If c is even, say c=2m, then c² = 4m² ≡ 0 mod 4.
+- If c is odd, c=2m+1, then c² = 4m² + 4m + 1 ≡ 1 mod 4.
+
+Therefore, c² can't be congruent to 2 mod 4. So if a and b are both odd, their squares add up to something that's not a perfect square because it would be 2 mod 4, which isn't possible for any square number.
+
+This means that in order for a² + b² = c² to hold true with all integers a, b, c ≥1, at least one of a or b must be even. That covers the proof because we've shown that having both a and b odd leads to a contradiction regarding the properties of square numbers modulo 4.
+
+I think that makes sense. Let me recap: If both a and b were odd, their squares would add up to something that's 2 mod 4, but squares can only be 0 or 1 mod 4. Therefore, it's impossible for both a and b to be odd in a Pythagorean triple. Hence, at least one must be even.
+</think>
+
+To determine whether the statement "For all integers \( a, b, c \geq 1 \), if \( a^2 + b^2 = c^2 \), then at least one of \( a \) or \( b \) must be even" is true, we can analyze the parity (evenness or oddness) of these integers.
+
+**Step-by-Step Explanation:**
+
+1. **Understand Parity Basics:**
+   - Even numbers are divisible by 2 and can be written as \( 2k \).
+   - Odd numbers are not divisible by 2 and can be written as \( 2k + 1 \).
+
+2. **Square of Even and Odd Numbers:**
+   - The square of an even number is even. For example, \( (2k)^2 = 4k^2 \), which is divisible by 4.
+   - The square of an odd number is also odd. Specifically, \( (2k + 1)^2 = 4k^2 + 4k + 1 \), which leaves a remainder of 1 when divided by 4.
+
+3. **Analyze the Sum of Squares:**
+   - If both \( a \) and \( b \) are odd:
+     - \( a^2 \equiv 1 \mod 4 \)
+     - \( b^2 \equiv 1 \mod 4 \)
+     - Therefore, \( a^2 + b^2 \equiv 1 + 1 = 2 \mod 4 \).
+   - If one of them is even and the other is odd:
+     - The square of the even number is divisible by 4 (i.e., \( 0 \mod 4 \)), and the square of the odd number is \( 1 \mod 4 \). Thus, their sum is \( 0 + 1 = 1 \mod 4 \) or \( 1 + 0 = 1 \mod 4 \).
+   - If both are even:
+     - Both squares are divisible by 4, so their sum is also divisible by 4.
+
+4. **Properties of Squares Modulo 4:**
+   - A perfect square can only be congruent to 0 or 1 modulo 4.
+     - \( (2k)^2 = 4k^2 \equiv 0 \mod 4 \)
+     - \( (2k + 1)^2 = 4k(k + 1) + 1 \equiv 1 \mod 4 \)
+
+5. **Contradiction When Both Are Odd:**
+   - If both \( a \) and \( b \) are odd, their sum of squares is \( 2 \mod 4 \).
+   - However, no perfect square can be congruent to 2 modulo 4.
+   - Therefore, if both were odd, \( c^2 \equiv 2 \mod 4 \), which is impossible.
+
+6. **Conclusion:**
+   - Since assuming both \( a \) and \( b \) are odd leads to an impossibility, it must be that at least one of them is even.
+   - Hence, for any Pythagorean triple \( (a, b, c) \), at least one of \( a \) or \( b \) must be even.
+
+**Final Answer:**
+
+The statement is true. For all integers \( a, b, c \geq 1 \), if \( a^2 + b^2 = c^2 \), then at least one of \( a \) or \( b \) must indeed be even.

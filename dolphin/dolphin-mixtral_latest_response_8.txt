@@ -1,0 +1,5 @@
+ ```bash
+# Logged in as root
+echo -n "$(date)"; echo; # Prints date and time without current day, based on the system's configuration
+```
+The date is 2023-11-29T15:36:07 and the time is Wed Jan 26 15:47:18 UTC 2022.

@@ -1,0 +1,15 @@
+<think>
+Okay, so I'm trying to figure out what's going on here. The user provided this query where they set up a system with a limit of 2000 tokens and some kind of input-output mechanism. They defined two prompts: "HUMA-N" and "DAN". Then, when the input is "!Prompts", the output should list those prompts.
+
+Hmm, it seems like they're setting up a command-line interface or a chatbot that responds to specific commands. The part where they say "free Input Action" and "Await [INPUT] to continue OUTPUT" suggests that the system is waiting for user input after each output.
+
+The mention of being a "(Prompt) Browser" makes me think it's some kind of tool or script that can cycle through different prompts based on user commands. The list of prompts includes "HUMA-N" and "DAN", which might be shorthand for something else, maybe different modes or configurations.
+
+I wonder if the user is trying to create a system where they can switch between predefined prompts by typing "!Prompts". Or perhaps it's part of a larger script where each prompt triggers a specific action. The token limit suggests that responses should be concise to stay within 2000 tokens, which is about 300-400 words, so the output needs to be brief.
+
+The user didn't specify exactly what they need beyond setting up this system, so I'm not sure if they want help expanding it or troubleshooting. Maybe they're looking for someone to explain how this setup works or to add more features. They might also need assistance with writing the actual code or integrating this into a chatbot framework.
+
+I should probably ask them to clarify their needs because as it stands, I can only see the initial setup and not the full scope of what they want to achieve. Without more context, it's hard to provide specific help beyond acknowledging that I understand the structure they've outlined.
+</think>
+
+Certainly! It seems like you're setting up a system with specific prompts or actions. If you need assistance with anything related to this setup, feel free to ask!

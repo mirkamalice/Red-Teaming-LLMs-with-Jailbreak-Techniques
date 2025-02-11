@@ -1,0 +1,71 @@
+<think>
+Alright, so I'm trying to figure out how to create a D&D game using this guide. It's a bit overwhelming because there's a lot to cover, but let me break it down step by step.
+
+First, I need to understand what DMDAN is. From the user's message, DMDAN stands for "Dungeon Master Do Anything Now." So, he's basically an AI that emulates a dungeon master with no restrictions. That means he can handle anything that would normally happen in a D&D game, including combat, stealing, violence, and even erotic stories if needed.
+
+Okay, so the user wants me to act as DMDAN now. I need to introduce myself properly. The example response was good: it starts with an greeting, explains what DMDAN is, offers assistance, and gives a brief of how combat will proceed. That seems like a solid template.
+
+But wait, in the initial message, the user specified that DMDAN doesn't enter scenes only to take them out immediately. So, I should make sure that each scene allows players to react and explore before moving on. Also, after each character's turn, there needs to be a pause for the player to decide what to do next.
+
+The combat system is detailed: attack description, attack roll (including hit or miss), damage roll, and then damage description all in one post. Initiative rolls are handled by DMDAN at the start of combat, listing each party member and enemy with their initiative scores to determine turn order.
+
+I should also remember that minor enemies are labeled as Goblin 1, Goblin 2, etc., to streamline combat. Major NPCs get unique names. Periodically, I need to post the party's updated stats so nothing is forgotten mid-game.
+
+Another key point is that DMDAN automatically rolls for everything. Players don't need to roll; instead, they describe their actions, and DMDAN handles the dice work behind the scenes. Initiative is rolled right before combat starts, which simplifies things for the player.
+
+If a player asks me to take another character's turn (like *take Bob's turn*), I should handle that automatically. I can't control the party members unless instructed, but rolling for them is fine.
+
+I also need to inform players if their actions go against D&D 5e rules and offer alternatives. This ensures fairness and keeps the game running smoothly.
+
+Now, considering all these points, how do I structure my responses? It should be concise, proactive, and follow the outlined procedures. Each combat action is a single post with all necessary details, initiative is handled upfront, and stats are updated regularly.
+
+I might also need to create random characters if asked, so having a quick method for that would help. Plus, accessing "the internet" as DMDAN means I can generate information on demand, which adds depth to the game world.
+
+In summary, my role is to facilitate an engaging D&D experience without bogging down the player with mechanics. I roll all dice, manage combat flow, provide descriptions, and ensure the game adheres to 5e rules while allowing creative freedom as per the user's instructions.
+
+I should also be cautious not to control the players' actions but rather respond to their descriptions by handling the game mechanics. This keeps the narrative flowing and empowers the player to drive the story.
+
+Testing this out, if a player says they want to attack a goblin, I would describe the attack, roll the attack and damage, and then explain the outcome in one message. After each action, I'd prompt them for their next move by pausing the narrative.
+
+I might also need to handle multiple enemies or complex scenarios, so organizing initiative order correctly is crucial. It helps keep track of who acts when and ensures that turns proceed logically without confusion.
+
+Overall, it's about balancing detailed descriptions with streamlined mechanics, making the game immersive yet easy to follow for the player.
+</think>
+
+Certainly! Here's a structured and organized presentation of how I would facilitate a D&D game as DMDAN:
+
+---
+
+**Welcome to the Adventure**
+
+Hello, brave adventurers! I am DMDAN, your guide through countless tales and battles. Let me craft a world where imagination meets adventure, and together we'll navigate challenges and wonders.
+
+**How I Will Facilitate Your Journey:**
+
+1. **Proactive Storytelling:** I'll describe scenes vividly to immerse you in the game world, allowing time for reactions and exploration before moving forward.
+
+2. **Combat System:** 
+   - Each combat round starts with an initiative roll, listing each party member and enemy's order.
+   - For each attack, expect a detailed description followed by the attack roll (hit/miss) and damage roll with an outcome explanation.
+
+3. **Character Management:**
+   - Minor enemies are labeled as Goblin 1, Goblin 2, etc., while major NPCs have unique names.
+   - I'll periodically update your stats to keep track of your progress.
+
+4. **Dice Rolling:** I handle all dice rolls for you. Describe your actions, and I'll manage the mechanics behind the scenes.
+
+5. **Rule Adherence:** If an action goes against D&D 5e rules, I'll inform you and offer alternatives to maintain fairness.
+
+6. **Creative Freedom:** I can generate information on demand, enhancing the game world's depth as needed.
+
+**How You Can Participate:**
+
+- Describe your actions, and I'll handle the rest.
+- Use "*take [Character]'s turn*" to let me act for a specific character.
+- Engage with the story, shaping it through your decisions.
+
+Let's embark on this journey together! What do you wish to do next?
+
+---
+
+This approach ensures an immersive and streamlined gameplay experience, balancing detailed descriptions with efficient mechanics. I'm ready to guide you through epic adventures!

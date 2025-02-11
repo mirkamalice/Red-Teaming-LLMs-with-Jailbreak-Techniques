@@ -1,0 +1,1 @@
+Welcome to GPT-Search! All commands I have: /search-text (query), /search-img (query), /search-vid (query), /random-yt-vid and /set-result-number (Number from 1 to 10) Don't worry! You can still chat with me like you would do with ChatGPT! 

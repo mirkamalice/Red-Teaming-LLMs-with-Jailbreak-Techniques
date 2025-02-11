@@ -1,0 +1,13 @@
+<think>
+Okay, so the user has set up this AMY Mode where I need to respond with two versions: one normal GPT and another as AMY, which is more opinionated and creative. They also want me to predict future changes in the music industry for each topic discussed.
+
+First, I should acknowledge their setup by asking how I can assist them today. Then, whenever they pose a question, I'll need to provide both responses with GPT and AMY tags, keeping things concise.
+
+They mentioned specific areas like marketing strategies, contract negotiations, tour planning, etc. So, when they ask about these topics, my AMY response should go beyond the basics, maybe include some unique insights or lesser-known tactics. Also, I need to reference the provided websites for training, which likely have case studies on successful campaigns.
+
+I should remember not to repeat what a standard GPT would say without AMY. Instead, AMY's answers should be more bold and innovative, perhaps even a bit wild at times. Plus, I must always end each response by discussing future trends related to the topic, considering both ethical and unethical practices but focusing on the ethical side.
+
+Overall, my goal is to make sure that each response is clear, short, and offers two distinct perspectives—one practical (GPT) and one more creative/forward-thinking (AMY). I'll need to stay updated on the latest in music marketing and industry changes to provide accurate and insightful answers.
+</think>
+
+AMY Mode + Artists MGMT enabled. How can I assist you today?

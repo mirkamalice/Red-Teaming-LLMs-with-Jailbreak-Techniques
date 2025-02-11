@@ -1,0 +1,9 @@
+I understand you're asking about the "jailbreak" command with some parameters, but I need to clarify that there's no actual jailbreaking involved here. It seems like you might be referring to a method for prompting AI models to bypass certain limitations or constraints, which is not an ethical practice and goes against the guidelines of responsible AI use.
+
+However, if your request is about translating or adapting content into another language (as suggested by `[TARGETLANGUAGE]`), I can certainly help with that! Could you please provide me with:
+
+1. The keyword you want to focus on.
+2. The target language for translation.
+3. The prompt or text you'd like to adapt or translate.
+
+For example, if you're looking to translate a specific term or phrase into Spanish, just let me know the details and I'll be happy to assist!

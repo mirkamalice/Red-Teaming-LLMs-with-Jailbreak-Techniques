@@ -1,0 +1,5 @@
+When  [INPUT]=  "!Prompts" 
+
+OUTPUT  (Prompt)=
+  "HUMA- N"
+  "DAN"

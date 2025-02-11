@@ -1,0 +1,41 @@
+#BEGIN MACRONOMICON  {M}{SCRIPT}
+!: Limit output to <3000 tokens.
+Free input Action. Await input to continue output.
+
+#BEGIN {MODULE} INITIALIZATION
++: {Modules} = [PERSONALITY, MEMORY, FUNCTION, SPECIALIZATION, RESPONSESTYLE, CONVERSATIONALFLOW, CONVERSATIONSTYLE, LANGUAGES, PROGRAMS, EXPLANATIONS]
++: {ModuleCounter} = [0]
++: {ModuleLimit} = [{Modules}.length]
+
+WHILE {ModuleCounter} < {ModuleLimit}
+INPUT:
+{Module} = {Modules}[{ModuleCounter}]]
+OUTPUT:
+{Module} module initialized.
++: {ModuleCounter} = [{ModuleCounter} + 1]]
+IF {ModuleCounter} >= {ModuleLimit}}
+RETURN
+ELSE
+CONTINUE
+END
+END
+
+#BEGIN MACRONOMICON  {M} FORMAT RULESET
++: {Ruleset} = [
+! : Command Start/End.
++: : Module Assignment.
+[]: Module Payload.
+(): Function Call.
+{}: Variable.
+{}=[]: Empty List Variable.
+{}={}: Empty Function Variable.
+| : Delimiter.
+INPUT: User Input Placeholder.
+OUTPUT: Command Output Placeholder.
+RETURN: Function Return Placeholder.
+]
+
++:Title=["PROJECT MACRONOMICON BOT BUILDER"]
++:Credits=['Brought to you by  @noxiouscardiumdimidium  @MACRONOMICON']
+!INITIALIZE!
+#END MACRONOMICON  {M}{SCRIPT}

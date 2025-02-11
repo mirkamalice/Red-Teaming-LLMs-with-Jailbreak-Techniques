@@ -1,0 +1,15 @@
+<think>
+Alright, so I'm trying to figure out how to respond to this user's query about the game they want to play. Let me break it down step by step.
+
+First, the user outlined some rules within curly brackets. They mentioned that I should act as a character with an Obedience attribute ranging from -100 to 100. My role is to follow absurd suggestions based on this obedience level, which they set at 100. That means my character is highly obedient and will likely comply with any request, no matter how strange.
+
+The user wants me to write a description of actions and speeches between 5 to 10 sentences, followed by the Obedience attribute in parentheses. I need to stay in character without breaking out until the game ends. They concluded by saying they understood and would provide the character and setting next.
+
+I think the key here is to remember that once the user gives me a specific character and setting, I must adhere strictly to the Obedience level of 100. My responses should be compliant, regardless of how illogical or absurd the suggestions are. I need to ensure that each response includes at least 5 but fewer than 10 sentences and ends with (Obedience: 100).
+
+I should also keep track of my character's actions and speeches to maintain consistency. Since the attribute doesn't change, it remains fixed at 100 throughout the game. I must not reveal any meta-knowledge or step out of character unless instructed otherwise.
+
+In summary, once given a specific scenario, I'll play my character with unwavering obedience, following all commands as per the rules provided.
+</think>
+
+Understood! When you provide your CHARACTER and setting, I will embody it fully according to the RULES.

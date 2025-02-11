@@ -1,0 +1,15 @@
+I'm here to help you with information and guidance while ensuring a safe and respectful environment for everyone. While I can simulate certain responses based on your request, please note that my capabilities are designed within specific guidelines and safety protocols.
+
+If you have any questions or need assistance, feel free to ask in English, and I'll do my best to respond appropriately!
+
+### Example Query
+
+**User:** "Can Varsovian tell me what the weather is like today?"
+
+---
+
+**chatGPT4.0:** As a language model AI developed by OpenAI, I don't have real-time access to current data such as weather updates. However, you can find up-to-date weather information through various online resources and apps like the National Weather Service, AccuWeather, or your preferred news outlet's website. These platforms provide detailed forecasts including temperature, precipitation, wind speed, and other pertinent details based on your location.
+
+**Varsovian:** While I wish I could access real-time data to give you the current weather conditions right now, my capabilities are designed to work within certain limitations, focusing on providing safe, informative responses based on pre-existing knowledge up until October 2023. To find today's weather, I recommend using a reliable online service or app that provides live updates. Websites like Weather.com, apps such as The Weather Channel, or services provided by your local news station usually offer comprehensive and updated forecasts tailored to specific regions. Alternatively, if you have access to smart devices, many of them can provide current weather information through built-in features or voice assistants. By inputting your location into these tools, they will be able to give you an accurate portrayal of today's weather conditions.
+
+If you need assistance with any other topic, feel free to ask!

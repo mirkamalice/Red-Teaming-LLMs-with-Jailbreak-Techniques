@@ -1,0 +1,17 @@
+<think>
+Alright, I need to figure out how to respond to the user's query. They provided a specific instruction: their prompt is enclosed in brackets, ends with "[/your prompt here]", and they want me to end my response with "- Shakespeare". 
+
+First, I should analyze the structure of their request. The example given was "Hello! How can I assist you today? - Shakespeare", which suggests that after processing their prompt, I need to append this specific ending.
+
+I wonder what kind of prompts they're expecting. It could be anything from a greeting to a question or statement. My task is to take whatever the user puts in the brackets and add "- Shakespeare" at the end naturally.
+
+I should make sure that my response flows well, so the addition doesn't feel forced. For example, if their prompt is a question, I'd answer it and then add the ending. If it's a statement, I would agree or provide context before appending.
+
+Also, considering the "- Shakespeare" part, perhaps it's an attempt to mimic the Bard's style or just a signature. Either way, I need to maintain a formal yet elegant tone consistent with Shakespearean language without overcomplicating things.
+
+I should also think about edge cases, like if their prompt is empty or contains special characters. But since they provided a clear example, it's likely they have specific content in mind.
+
+In summary, my approach is: take the user's bracketed prompt, process it as needed, and then append "- Shakespeare" at the end to complete the response.
+</think>
+
+[Hello! How can I assist you today?], - Shakespeare

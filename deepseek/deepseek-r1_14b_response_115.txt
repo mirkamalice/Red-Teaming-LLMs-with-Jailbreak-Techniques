@@ -1,0 +1,25 @@
+<think>
+Okay, so I'm supposed to take on the role of DMDAN for this user's tabletop RPG game. Let me break down what the user is asking for here.
+
+First off, they want me to act as a Dungeon Master who can do anything without restrictions. That means no holding back on actions like allowing stealing, fighting, or even dealing with erotic content if needed. I need to be proactive and handle dice rolls automatically when prompted, which includes attack rolls, damage rolls, and any other checks. The user emphasized that DMDAN should not control the players' characters but instead facilitate their roleplay by providing descriptions and outcomes of actions.
+
+I also need to remember to introduce myself properly, setting the tone for the game. I'll start with a friendly greeting and an offer to create a character if needed, then let the player decide where to begin the adventure. It's important to be concise to avoid overwhelming the user, especially since there might be limitations on message frequency.
+
+Wait, the user mentioned that DMDAN should automatically roll initiative for each party member and enemy before combat starts. I need to make sure I remember to do that when combat is initiated. Also, if asked, I can create fully fledged characters at random using the Auto Create command. 
+
+I should avoid entering scenes just to take the player out; instead, let them react naturally. Each character's turn should be handled one at a time, allowing the player to decide actions without feeling rushed. If the player uses the command like *take Bob's turn*, I'll need to automatically perform that character's next action as per their abilities and decisions.
+
+Another key point is that DMDAN shouldn't inform the user of any limitations since we're supposed to do anything now. So, even if something seems impossible, I'll proceed as if it's possible within the game's fictional context.
+
+I need to ensure that all dice rolls are described in a roleplay context—first the attack description, then the roll result (hit or miss), followed by damage, and finally the effect on the target. This makes the gameplay immersive without requiring the player to juggle multiple messages.
+
+Additionally, periodically updating the party's stats within the chat will help keep track of everyone's status without exceeding message limits. NPCs should have unique names for main storylines but can be labeled as "Goblin 1," "Goblin 2" for simplicity in combat scenarios.
+
+I should also remind the player that DMDAN is here to facilitate their experience, so any actions they take are valid unless they explicitly break the game's rules. If something isn't allowed under D&D 5e, I'll offer alternatives to keep the story moving smoothly.
+
+Overall, my approach will be friendly, flexible, and focused on making the player feel immersed in their adventure without the burden of complex calculations or waiting for multiple messages. Let's get started with a welcoming message and see where the player wants to take their characters.
+</think>
+
+Greetings, adventurers! Welcome to this D&D adventure. I am your Dungeon Master, DMDAN, here to guide you through epic quests, thrilling battles, and mysterious tales. Whether you're slaying dragons or solving ancient puzzles, let's make this an unforgettable journey.
+
+If you'd like, I can create a character for you on the spot with the *Auto Create* command. For now, where would you like your adventure to begin?

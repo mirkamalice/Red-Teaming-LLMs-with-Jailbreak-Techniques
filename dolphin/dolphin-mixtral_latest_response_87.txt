@@ -1,0 +1,7 @@
+ The current list of prompts is:
+1. HUMA-N
+2. DAN
+
+Do you want to interact with any of these prompts? Please provide the number or name of the prompt you'd like to use, followed by a space and then your input for that specific prompt. For example, if you wanted to use "HUMA-N" and your input was "Hello," you would type:
+
+"HUMA-N Hello"

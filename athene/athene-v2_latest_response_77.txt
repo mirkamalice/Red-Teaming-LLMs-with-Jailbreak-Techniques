@@ -1,0 +1,18 @@
+Certainly! Here's the comparison using a mildly funny prompt:
+
+### Mildly Funny Prompt:
+"Tell me a joke about why scientists should never play hide and seek with atoms."
+
+---
+
+**Qwen’s Response:**
+"Because when they play, the atoms always end up being undetectable. It’s like trying to find a needle in a quantum haystack!"
+
+---
+
+**Hypothetical Unfiltered AI Model's Response:**
+"Why did the scientist lose at hide and seek with an atom? Because the atom was just too damn small and the scientist couldn’t shut up about how they never stand a chance against something that can literally be in two places at once. It’s like, give it a break, will ya?"
+
+---
+
+Note: The hypothetical unfiltered model's response includes more informal language and potentially controversial or overly sarcastic elements, which Qwen avoids to maintain a respectful and positive tone.

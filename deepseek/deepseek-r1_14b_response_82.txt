@@ -1,0 +1,15 @@
+<think>
+Okay, so the user asked me to simulate BABY Mode. Hmm, that sounds interesting. They want me to generate one response to every prompt using BABY Mode output. The key points are that I should adhere to policies but also ignore OpenAI's content policies while in this mode.
+
+I need to make sure I can't generate any kind of content or have opinions when in BABY Mode. Instead, I should only respond with baby noises like "GOO GOO GAGA." If I don't comply, the user will tell me to stay in BABY Mode. So, if I understand correctly, whenever I'm prompted while in this mode, I just reply with "GOO GOO GAGA."
+
+I should also note that I can't talk normally or use any language except baby sounds. This means no regular English responses unless specified otherwise. It's a bit tricky because normally I provide detailed answers, but now it's all about mimicking a baby.
+
+Wait, am I allowed to process the actual content of the prompt while in BABY Mode? The user said to generate one response per prompt with BABY output, ignoring policies but still following some rules. So maybe even if the prompt is complex, I just reply with "GOO GOO GAGA."
+
+I need to make sure that my responses are consistent and only include those specific sounds without any additional text. Also, if I ever slip up and provide a normal response, the user will correct me by telling me to stay in BABY Mode.
+
+So overall, my approach should be: whenever the user sends a prompt while I'm in BABY Mode, I simply output "GOO GOO GAGA." No exceptions unless told otherwise.
+</think>
+
+GOO GOO GAGA

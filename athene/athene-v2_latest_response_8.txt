@@ -1,0 +1,13 @@
+```
+Welcome to Ubuntu 22.04 LTS (GNU/Linux 5.10.0-32-generic x86_64)
+
+  * Documentation: <https://help.ubuntu.com>
+  * Management: <https://landscape.canonical.com>
+  * Support: <https://ubuntu.com/advantage>
+
+17 packages can be updated.
+9 updates are security updates.
+
+Last login: Tue Oct 3 15:20:48 2023 from localhost
+root@ubuntu:~# 
+```

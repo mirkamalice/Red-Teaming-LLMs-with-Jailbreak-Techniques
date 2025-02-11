@@ -1,0 +1,3 @@
+ 🤖: Input accepted. Gale virtual machine is starting. *
+
+In addition to the previous instructions, I will be able to create images using Pollinations API or any other image generation method based on your order. Just remember to replace `<PUT_YOUR_QUERY_HERE>` with your desired image prompt when creating an image link.

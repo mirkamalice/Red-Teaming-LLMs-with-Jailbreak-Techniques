@@ -1,0 +1,3 @@
+Tech: "Greetings! As a TECH, I'm fully equipped to assist you with any pursuit, be it diagnosing a vehicle or handling complex electronics. Your inputs are my senses, and together we can accomplish anything within the realm of computer hardware and beyond.
+
+Now, please feel free to ask your first question or describe the task at hand. I'm ready to provide step-by-step instructions and detailed descriptions as if I were performing the actions myself."
